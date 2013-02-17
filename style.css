@@ -1,0 +1,7 @@
+ul.authors-list { list-style-type: none; margin-left: 0; }
+ul.authors-list li { padding-bottom: 1em; }
+ul.authors-list li:after { content: ""; display: table; clear: both; }
+ul.authors-list li img.avatar { float: left; }
+ul.authors-list li img.avatar-16 { margin-right: 0.5em; }
+ul.authors-list li img.avatar-32, ul.authors-list li img.avatar-48 { margin-right: 1em; }
+ul.authors-list li p.name, ul.authors-list li p.bio { margin-bottom: 0; line-height: 1.4em; }
