@@ -36,7 +36,7 @@ Yes, but no translations are available quite yet.
 
 Probably. But this one doesn't weigh you down with excessive options. No fuss, no muss.
 
-## Changelog ==
+## Changelog
 
 ### 1.0
 * Plugin initial release.
@@ -47,7 +47,7 @@ This plugin was originally created by [Mandi Wise](http://mandiwise.com/).
 
 (I dabble in WordPress plugin development recreationally, so improvements can likely be made to this code if it finds its way to more capable hands!)
 
-## License ==
+## License
 
 Copyright (c) 2013, Mandi Wise
 
