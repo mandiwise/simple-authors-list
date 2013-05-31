@@ -45,8 +45,6 @@ Probably. But this one doesn't weigh you down with excessive options. No fuss, n
 
 This plugin was originally created by [Mandi Wise](http://mandiwise.com/).
 
-(I dabble in WordPress plugin development recreationally, so improvements can likely be made to this code if it finds its way to more capable hands!)
-
 ## License
 
 Copyright (c) 2013, Mandi Wise
